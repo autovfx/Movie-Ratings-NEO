@@ -1,0 +1,55 @@
+[
+  {
+    "id": "UU97RT3Q",
+    "title": "Inception",
+    "ratings": [
+      5,
+      4,
+      5
+    ],
+    "totalRatings": 3,
+    "totalRatingSum": 14,
+    "averageRating": 4.7
+  },
+  {
+    "id": "Z2IDXGTX",
+    "title": "The Matrix",
+    "ratings": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "totalRatings": 4,
+    "totalRatingSum": 16,
+    "averageRating": 4
+  },
+  {
+    "id": "HBQA6YW3",
+    "title": "Interstellar",
+    "ratings": [],
+    "totalRatings": 0,
+    "totalRatingSum": 0,
+    "averageRating": 0
+  },
+  {
+    "id": "C9G0FT22",
+    "title": "Bigfoot",
+    "ratings": [
+      5
+    ],
+    "totalRatings": 1,
+    "totalRatingSum": 5,
+    "averageRating": 5
+  },
+  {
+    "id": "6JNAUR5D",
+    "title": "Rotten",
+    "ratings": [
+      2
+    ],
+    "totalRatings": 1,
+    "totalRatingSum": 2,
+    "averageRating": 2
+  }
+]
